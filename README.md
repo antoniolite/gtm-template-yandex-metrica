@@ -14,7 +14,7 @@ Antonio Lite (https://www.antoniolite.com/)
 
 # Information
 
-This template allows you configure these methods::
+This template allows you configure these methods:
 
 - init
 - hit
