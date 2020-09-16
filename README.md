@@ -60,30 +60,4 @@ It is recommended to read these three articles (in Spanish) to know all the func
 
 ## 16.09.2020
 
-- Text review
-- English version available
-- Russian version available
-
-## 31.07.2020
-
-- Added goal's price parameter to hit event
-- Added goal's price parameter to reachGoal event
-- Added goal's price parameter to file event
-- Added goal's price parameter to extLink event
-- Re-ordered some field's blocks
-- Fixed minor bugs
-- Code optimization
-
-## 25.09.2019
-
-- Added trustedDomains parameter when initialized
-- Added childIframe parameter when initialized
-- Added userParams parameter when initialized
-- Added triggerEvent parameter when initialized
-- Fixed bug setting User ID
-- Fixed bug adding file extensions
-- Code optimization
-
-## 16.06.2019
-
 - First release
